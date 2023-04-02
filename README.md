@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/sebhopper/MEDM5221/tree/gh-pages) branch hosts the contents of this directory at <https://sebhopper.github.io/MEDM5221/>.
-The permalink for this webpage version is <https://sebhopper.github.io/MEDM5221/v/f3e0520060162f71f0950ea88d44de526d241ad1/>.
+The permalink for this webpage version is <https://sebhopper.github.io/MEDM5221/v/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://sebhopper.github.io/MEDM5221/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`f3e0520060162f71f0950ea88d44de526d241ad1`](https://github.com/sebhopper/MEDM5221/commit/f3e0520060162f71f0950ea88d44de526d241ad1).
+[`a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c`](https://github.com/sebhopper/MEDM5221/commit/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c).
