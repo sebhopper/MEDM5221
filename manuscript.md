@@ -23,8 +23,8 @@ header-includes: |
   <meta name="dc.date" content="2023-04-02" />
   <meta name="citation_publication_date" content="2023-04-02" />
   <meta property="article:published_time" content="2023-04-02" />
-  <meta name="dc.modified" content="2023-04-02T19:05:41+00:00" />
-  <meta property="article:modified_time" content="2023-04-02T19:05:41+00:00" />
+  <meta name="dc.modified" content="2023-04-02T19:09:22+00:00" />
+  <meta property="article:modified_time" content="2023-04-02T19:09:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://sebhopper.github.io/MEDM5221/" />
   <meta name="citation_pdf_url" content="https://sebhopper.github.io/MEDM5221/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://sebhopper.github.io/MEDM5221/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://sebhopper.github.io/MEDM5221/v/f3e0520060162f71f0950ea88d44de526d241ad1/" />
-  <meta name="manubot_html_url_versioned" content="https://sebhopper.github.io/MEDM5221/v/f3e0520060162f71f0950ea88d44de526d241ad1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://sebhopper.github.io/MEDM5221/v/f3e0520060162f71f0950ea88d44de526d241ad1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://sebhopper.github.io/MEDM5221/v/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c/" />
+  <meta name="manubot_html_url_versioned" content="https://sebhopper.github.io/MEDM5221/v/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://sebhopper.github.io/MEDM5221/v/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://sebhopper.github.io/MEDM5221/v/f3e0520060162f71f0950ea88d44de526d241ad1/))
+([permalink](https://sebhopper.github.io/MEDM5221/v/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c/))
 was automatically generated
-from [sebhopper/MEDM5221@f3e0520](https://github.com/sebhopper/MEDM5221/tree/f3e0520060162f71f0950ea88d44de526d241ad1)
+from [sebhopper/MEDM5221@a0a148f](https://github.com/sebhopper/MEDM5221/tree/a0a148f7f9c97ad3c07f8df6b992426aaa1eb01c)
 on April 2, 2023.
 </em></small>
 
@@ -120,6 +120,7 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 ## Abstract {.page_break_before}
 
+Ah hello
 
 
 
